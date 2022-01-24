@@ -32,3 +32,55 @@ body{
 .our-service {
     margin-top: 150px;
 }
+/* .apps{
+    padding: 15px 15px;
+    border: 1px solid #fff;
+    display: inline;
+    font-size: px;
+    border-radius: 10px;
+    
+}
+.apps a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+  padding-top: 10px;
+
+    
+}
+.apps p{
+    
+}
+.app-store{
+    font-size: 40px;
+   padding-top: 10px;
+} */
+
+/* mobile version custom css */
+
+@media (max-width: 570px){
+    .sm-device{
+      
+        margin-top: 0px;
+        padding: 0;
+        margin-bottom: 0px;
+        padding-bottom: 0px ;
+    }
+    .sm-device h2{
+        font-size: 20px;
+        padding: 0px;
+        margin: 0px;
+        padding-bottom: 0px;
+        margin-top: 50px;
+    }
+    .sm-device p{
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+    .booking-btn{
+        padding: 2px 10px;
+
+    }
+    
+    
+}
