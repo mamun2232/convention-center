@@ -21,8 +21,14 @@ body{
     color: aliceblue;
    
 }
+.quation{
+    margin-top: 120px;
+}
 .Quation-title{
     font-size: 20px;
     color: black;
 
+}
+.our-service {
+    margin-top: 150px;
 }
