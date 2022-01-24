@@ -12,9 +12,10 @@ body{
     #fae7f4;
     padding: 8px 50px;
     border-radius: 15px;
+    font-weight: 600;
 }
 .packegs{
-    transform: translatey(-90px);
+    transform: translatey(-100px);
 
     background-color: #3F87F5;
     border-radius: 15px;
@@ -32,32 +33,12 @@ body{
 .our-service {
     margin-top: 150px;
 }
-/* .apps{
-    padding: 15px 15px;
-    border: 1px solid #fff;
-    display: inline;
-    font-size: px;
-    border-radius: 10px;
-    
+.packeg-section{
+    margin-top: 120px;
 }
-.apps a{
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-  padding-top: 10px;
-
-    
+footer{
+    margin-top: 100px;
 }
-.apps p{
-    
-}
-.app-store{
-    font-size: 40px;
-   padding-top: 10px;
-} */
-
-/* mobile version custom css */
-
 @media (max-width: 570px){
     .sm-device{
       
