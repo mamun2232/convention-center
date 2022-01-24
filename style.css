@@ -39,6 +39,8 @@ body{
 footer{
     margin-top: 100px;
 }
+/* 
+--------------------mobile responsive------------ */
 @media (max-width: 570px){
     .sm-device{
       
