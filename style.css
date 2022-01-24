@@ -3,3 +3,21 @@ body{
     font-family: 'Roboto Slab', serif;
     font-family: 'Work Sans', sans-serif;
 }
+/* specail btn */
+
+
+.my-button{
+    color: #3F87F5;
+    background-color: 
+    #fae7f4;
+    padding: 8px 50px;
+    border-radius: 15px;
+}
+.packegs{
+    transform: translatey(-90px);
+
+    background-color: #3F87F5;
+    border-radius: 15px;
+    color: aliceblue;
+   
+}
